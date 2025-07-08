@@ -2,6 +2,7 @@
 
 int main()
 {
+    // AREA OF CIRCLE AND VOL OF CYLINDER
     int r;
     int h;
     printf("Enter the radius:");

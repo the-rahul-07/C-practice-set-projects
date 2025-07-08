@@ -2,6 +2,7 @@
 
 int main()
 {
+    // AREA OF RECTANGLE
     int l, b;
     printf("enter length :");
     scanf("%d", &l);
