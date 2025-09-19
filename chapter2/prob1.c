@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("NEHA");
+
     return 0;
 }
