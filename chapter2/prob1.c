@@ -2,9 +2,8 @@
 
 int main()
 {
-    printf("my name is rahul");
-    printf("rahul is a good boy");
-    printf("neha is rahuls wife");
-    printf("nehu");
+    // which datatype will 3.0/8 - 2 result
+    float a = 3.0 / 8 - 2;
+    printf("The value of a is %f", a);
     return 0;
 }
