@@ -8,6 +8,5 @@ int main()
         printf("Happy birthday\n");
         i = i + 1;
     }
-
     return 0;
 }
