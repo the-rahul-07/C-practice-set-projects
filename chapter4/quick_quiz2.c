@@ -6,7 +6,7 @@ int main()
     printf("Enter how many natural number to be printed : ");
     scanf("%d", &n);
 
-    int i = 0;
+    int i = 1;
     printf("The natural numbers upto %d are : \n", n);
     do
     {
