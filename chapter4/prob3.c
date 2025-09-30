@@ -8,7 +8,7 @@ int main()
     int sum = 0;
     while (i <= n)
     {
-        sum = sum + i;
+        sum += i; // sum = sum + i;
         i++;
     }
     printf("Sum of 1st n natural number is %d\n", sum);
