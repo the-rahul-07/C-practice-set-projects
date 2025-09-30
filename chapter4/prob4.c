@@ -14,12 +14,12 @@ int main()
     // }
 
     // using do while loop
-    int i = 1;
-    do
-    {
-        sum += i;
-        i++;
-    } while (i <= n);
+    // int i = 1;
+    // do
+    // {
+    //     sum += i;
+    //     i++;
+    // } while (i <= n);
 
     printf("Sum of 1st n natural number is %d\n", sum);
     return 0;
